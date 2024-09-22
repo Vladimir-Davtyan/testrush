@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "converter.h": "c",
+        "unistd.h": "c",
+        "dict.h": "c",
+        "stdio.h": "c"
+    }
+}
